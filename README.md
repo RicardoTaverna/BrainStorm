@@ -1,2 +1,2 @@
 # BrainStorm
-Códigos  com ideias para implementações
+ideias implementadas para aula de dicas
